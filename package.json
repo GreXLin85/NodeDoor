@@ -1,0 +1,22 @@
+{
+  "name": "nodedoor",
+  "version": "1.0.0",
+  "description": "A backdoor written in NodeJS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backdoor",
+    "node",
+    "express"
+  ],
+  "author": "GreXLin85",
+  "license": "MIT",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "express": "^4.17.1",
+    "request": "^2.88.0",
+    "yargs": "^15.0.2"
+  }
+}
